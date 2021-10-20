@@ -1,4 +1,4 @@
-import PropTypes from 'prop-type'
+import PropTypes from 'prop-types'
 
 const Button =({ color,text,onclick}) =>{
     return  (
