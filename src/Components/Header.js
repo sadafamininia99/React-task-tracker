@@ -21,7 +21,7 @@ Header.defaultProps ={
     title : 'Task Tracker',
 
 }
-Header.prototype={
+Header.prototype ={
     title :PropTypes.string.isRequired,
 
 }
